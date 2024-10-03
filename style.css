@@ -1,0 +1,43 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding: 1rem;
+}
+
+select{
+    margin: 0 1rem 1rem 0;
+}
+
+main{
+    background-color: aqua;
+    font-size: 16px;
+    padding: 1rem;
+}
+
+p{
+    padding: 1rem;
+}
+button{
+    border: none;
+    border-radius: 0.6rem;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+}
+h3{
+    margin: 5px;
+    padding: 5px;
+    height: 20px;
+    font-size: medium;
+    color: rgb(51, 158, 158);
+    background-color:bisque ;
+    font-style: italic;
+    align-items: center;
+   display: flex;
+   
+}
